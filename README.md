@@ -40,9 +40,6 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
             <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
         </a>
-        <a href="https://isocpp.org/">
-            <img src="https://img.shields.io/badge/C%2B%2B-F34B7E?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-        </a>
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
             <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
         </a>
