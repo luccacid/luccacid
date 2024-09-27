@@ -7,7 +7,7 @@
 
 
 ## 🔭 Current Projects
-- Working on exciting projects in data science and machine learning.
+- Working on projects in data science and machine learning.
 
 ## 🌱 Learning
 - Deepening my knowledge in algorithms, data structures, and software engineering principles.
