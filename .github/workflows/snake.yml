@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This runs the action daily at midnight
+    - cron: '0 0 * * *'  # Runs daily at midnight
   push:
     branches:
       - main  # Change to your default branch if needed
@@ -11,6 +11,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  # Ensures the repo is checked out
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -19,8 +22,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            
       - name: Commit generated files
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v8  # Updated version for compatibility
         with:
           author_name: github-actions
           author_email: github-actions@github.com
