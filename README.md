@@ -15,16 +15,21 @@
 ## 📈 Languages and Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccacid&layout=compact&theme=transparent)
 
-
- <div class="icon-container">
+   <div class="icon-container">
+        <a href="https://www.java.com/">
+            <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+        </a>
+        <a href="https://www.javascript.com/">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+        </a>
         <a href="https://www.python.org/">
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
         </a>
-        <a href="https://www.sqlite.org/">
-            <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL">
+        <a href="https://www.php.net/">
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
         </a>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-            <img src="https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=white" alt="C">
+        <a href="https://powerapps.microsoft.com/">
+            <img src="https://img.shields.io/badge/PowerApps-0078D4?style=flat&logo=microsoft-powerapps&logoColor=white" alt="PowerApps">
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
             <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
@@ -35,14 +40,14 @@
         <a href="https://isocpp.org/">
             <img src="https://img.shields.io/badge/C%2B%2B-F34B7E?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
         </a>
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+            <img src="https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=white" alt="C">
+        </a>
+        <a href="https://www.sqlite.org/">
+            <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL">
+        </a>
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
             <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
-        </a>
-        <a href="https://www.java.com/">
-            <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-        </a>
-        <a href="https://www.php.net/">
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
         </a>
     </div>
     
