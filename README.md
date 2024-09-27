@@ -5,6 +5,9 @@
 
 ![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccacid&show_icons=true&theme=transparent)
 
+Passionate about technology and mathematics, currently pursuing a degree in Computer Science at Universidade de Vila Velha. Aspiring Data Scientist.
+
+
 
 ## 🔭 Current Projects
 - Working on projects in data science and machine learning.
