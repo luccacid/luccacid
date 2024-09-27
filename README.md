@@ -12,11 +12,16 @@
 ## 🌱 Learning
 - Deepening my knowledge in algorithms, data structures, and software engineering principles.
 
-
-
 ## 📈 Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccacid)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🎮 Contributions 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
 
 
 Feel free to connect with me or reach out if you have any questions!
