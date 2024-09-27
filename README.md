@@ -45,18 +45,7 @@
             <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
         </a>
     </div>
-    <style>
-        .icon-container {
-            display: flex;
-            justify-content: center; 
-            flex-wrap: wrap;
-            gap: 10px; 
-            margin: 20px; 
-        }
-        .icon-container a {
-            text-decoration: none; 
-        }
-    </style>
+    
 
 
 ## 🎮 Contributions 
