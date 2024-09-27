@@ -13,7 +13,7 @@
 - Deepening my knowledge in algorithms, data structures, and software engineering principles.
 
 ## 📈 Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccacid&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccacid&layout=compact&theme=transparent)
 ## 🎮 Contributions 
 
 <picture>
