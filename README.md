@@ -13,7 +13,7 @@
 - Deepening my knowledge in algorithms, data structures, and software engineering principles.
 
 ## 📈 Languages and Tools
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccacid&layout=compact&theme=transparent)
+
 
    <div class="icon-container">
         <a href="https://www.python.org/">
@@ -56,6 +56,9 @@
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
         </a>
     </div>
+
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccacid&layout=compact&theme=transparent)
     
 
 
