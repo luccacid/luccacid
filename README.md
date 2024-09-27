@@ -5,9 +5,6 @@
 
 ![Lucca GitHub stats](https://github-readme-stats.vercel.app/api?username=luccacid&show_icons=true&bg_color=00000000)
 
-## 🎮 Play the Snake Game!
-
-<iframe src="https://luccacid.github.io/snake-game/" width="400" height="600"></iframe>
 
 ## 🔭 Current Projects
 - Working on exciting projects in data science and machine learning.
