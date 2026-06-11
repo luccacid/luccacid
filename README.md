@@ -1,75 +1,85 @@
-# Hello! I am Lucca Cid 👋
+# Hey, I'm Lucca Cid 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luccacidd/)
+**Full-stack developer** • Computer Science @ Universidade de Vila Velha • Vitória, Brazil 🇧🇷
+
+I build web platforms end-to-end — from the database schema to the deploy pipeline — and I'm especially interested in **process automation, AI-assisted development and data**. Currently building a no-code automation SaaS.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccacidd/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccacids@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luccacidd/)
 
-![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccacid&show_icons=true&theme=transparent)
+---
 
-Passionate about technology and mathematics, currently pursuing a degree in Computer Science at Universidade de Vila Velha. Aspiring Data Scientist.
+## 🚀 What I'm building
 
+### Fluxo — no-code automation platform `in development`
+SaaS where companies design visual workflows that connect internal databases, spreadsheets and e-mail — no code required.
+- Visual flow editor with **React Flow**; async execution with **BullMQ + Redis** (exponential retry, per-step logs)
+- Local agent shipped as a standalone binary (**Bun** `build --compile`) for Windows/Linux/macOS — reaches internal corporate DBs over WebSocket without exposing ports
+- **Turborepo** monorepo, multi-tenancy via PostgreSQL **Row-Level Security**, credentials encrypted with AES-256-GCM
 
+`Next.js 15` `TypeScript` `Hono` `Drizzle` `PostgreSQL` `Redis` `Bun` `Fly.io`
 
-## 🔭 Current Projects
-- Working on projects in data science and machine learning.
+### Said Care — management system
+Full-stack platform for employee management: time tracking, financial history and **PIX QR Code generation** (EMV/BCB payload with CRC-16 computed locally).
+- Auth with **NextAuth v5** (JWT + bcrypt), role-based access control and middleware-protected routes
+- Dashboards with Recharts, PDF/image receipt uploads, Excel-compatible CSV export, **Docker Compose** deploy
 
-## 🌱 Learning
-- Deepening my knowledge in algorithms, data structures, and software engineering principles.
+`Next.js 15` `TypeScript` `Tailwind` `Prisma` `PostgreSQL` `Docker`
 
-## 📈 Languages and Tools
+### ⚽ World Cup 2026 Predictor — [live demo](https://luccacid.github.io/copa2026-site/)
+Statistical engine that simulates the World Cup 10,000× per day: Elo ratings over 150 years of internationals, Poisson + Dixon-Coles goal model, squad-strength index and live betting-odds ensemble — with a shared prediction pool for friends.
 
+`Python` `pandas` `scikit-learn` `Flask` `PostgreSQL (Neon)` `Monte Carlo`
 
-   <div class="icon-container">
-        <a href="https://www.python.org/">
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-        </a>
-        <a href="https://pandas.pydata.org/">
-            <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
-        </a>
-        <a href="https://jupyter.org/">
-            <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
-        </a>
-        <a href="https://www.microsoft.com/en-us/microsoft-365/powerapps">
-            <img src="https://img.shields.io/badge/PowerApps-DA3A29?style=flat&logo=microsoftpowerapps&logoColor=white" alt="PowerApps">
-        </a>
-        <a href="https://www.sqlite.org/">
-            <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white" alt="SQL">
-        </a>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-            <img src="https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=white" alt="C">
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-            <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-            <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
-        </a>
-        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-            <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
-        </a>
-        <a href="https://www.java.com/">
-            <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
-        </a>
-        <a href="https://www.php.net/">
-            <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-        </a>
-    </div>
+---
 
-   <br><br>
+## 🛠️ Stack
 
+**Languages**
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccacid&layout=compact&theme=transparent)
-    
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+**Front-end**
 
-## 🎮 Contributions 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/luccacid/luccacid/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/luccacid/luccacid/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+**Back-end & Data**
 
-Feel free to connect with me or reach out if you have any questions!
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+**Infra & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-24175B?style=flat&logo=flydotio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+
+---
+
+## 📊 GitHub
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luccacid&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccacid&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+💬 Open to opportunities and collaborations — the fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/luccacidd/) or [e-mail](mailto:luccacids@gmail.com).
