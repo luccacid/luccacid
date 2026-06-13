@@ -20,14 +20,14 @@ SaaS where companies design visual workflows that connect internal databases, sp
 
 `Next.js 15` `TypeScript` `Hono` `Drizzle` `PostgreSQL` `Redis` `Bun` `Fly.io`
 
-### Said Care — management system
+### Said Care — management system · [repo](https://github.com/luccacid/said-care-gerenciamento)
 Full-stack platform for employee management: time tracking, financial history and **PIX QR Code generation** (EMV/BCB payload with CRC-16 computed locally).
 - Auth with **NextAuth v5** (JWT + bcrypt), role-based access control and middleware-protected routes
 - Dashboards with Recharts, PDF/image receipt uploads, Excel-compatible CSV export, **Docker Compose** deploy
 
 `Next.js 15` `TypeScript` `Tailwind` `Prisma` `PostgreSQL` `Docker`
 
-### ⚽ World Cup 2026 Predictor — [live demo](https://luccacid.github.io/copa2026-site/)
+### ⚽ World Cup 2026 Predictor — [live demo](https://luccacid.github.io/copa2026-site/) · [repo](https://github.com/luccacid/copa2026)
 Statistical engine that simulates the World Cup 10,000× per day: Elo ratings over 150 years of internationals, Poisson + Dixon-Coles goal model, squad-strength index and live betting-odds ensemble — with a shared prediction pool for friends.
 
 `Python` `pandas` `scikit-learn` `Flask` `PostgreSQL (Neon)` `Monte Carlo`
